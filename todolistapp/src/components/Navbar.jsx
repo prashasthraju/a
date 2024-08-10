@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="flex m-3 p-1 w-[100%]   justify-between bg-[#FFFDFA] font-sans">
+    <div className="flex m-3 p-1 w-[100%]   justify-between bg-[#fafeff] font-sans">
       <div className="logog  flex gap-1 justify-start cursor-pointer p-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
